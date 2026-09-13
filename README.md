@@ -1,4 +1,4 @@
-# 📊 Excel Business Intelligence & Financial Trackers Portfolio
+#  Excel Business Intelligence & Financial Trackers Portfolio
 
 **Analyst:** Olawoyin Olufunmilayo Esther
 
@@ -7,7 +7,7 @@ This repository showcases end to end spreadsheet models built using Microsoft Ex
 
 ---
 
-## 📈 Project 1: Supermarket Sales Optimisation Dashboard
+##  Project 1: Supermarket Sales Optimisation Dashboard
 * **Tools:** Microsoft Excel, Power Query, Pivot Tables, Interactive KPI Cards
 * **Problem Statement:** The business lacked visibility into daily sales patterns, top performing product categories, and regional performance trends, making it difficult to target promotions or optimize revenue.
 * **Key Findings & Impact:**
@@ -17,7 +17,7 @@ This repository showcases end to end spreadsheet models built using Microsoft Ex
 ![Supermarket Sales Dashboard](sales%20analysis%20report%20image%20first.png)
 ---
 
-## 💰 Project 2: Automated Retail Sales & Profit Tracker
+##  Project 2: Automated Retail Sales & Profit Tracker
 * **Tools:** Microsoft Excel, Dynamic Formulas, Automated Arithmetic, Margin Calculation
 * **Problem Statement:** Small businesses often suffer from error-prone manual bookkeeping, delaying insights into whether daily transactions yield healthy margins.
 * **Core Features & Impact:**
