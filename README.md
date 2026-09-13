@@ -17,6 +17,3 @@ This repository showcases interactive Excel dashboards, automated financial trac
 * **Tools:** Excel (Advanced Formulas & Automation)
 * **Description:** Engineered a formula-driven dashboard that automatically recalculates costs, revenue, and profit as new sales entries are added, eliminating manual monthly computations.
 
-### 3. Interactive Movie Analytics Dashboard
-* **Tools:** Excel / BI
-* **Description:** Processed and structured corrupted real-world cinematic datasets to establish a clean, analysis-ready source for dashboard reporting.
