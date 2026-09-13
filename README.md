@@ -14,6 +14,7 @@ This repository showcases end-to-end spreadsheet models built using Microsoft Ex
   * **Sales Trends:** Tracked $1,401,626 in gross sales across 823 orders, discovering heavy weekend peaks (Saturday at $899,344) and a sharp mid-week trough on Tuesdays ($125,897)[cite: 4].
   * **Top Categories:** Household products generated the highest revenue share ($1,788,651), followed by Frozen Foods and Fresh Produce.
   * **Strategic Recommendations:** Proposed traffic-balancing promotions for mid-week slumps and age-group-targeted campaigns based on product preferences.
+(sales analysis report image first.png)
 
 ---
 
